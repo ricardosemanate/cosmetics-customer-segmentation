@@ -2,6 +2,8 @@
 ## Introducción 
 Este proyecto nace de la necesidad de entender el comportamiento de compra de los usuarios dentro de una plataforma de comercio electrónico a partir de un conjunto de datos masivo de 3.5 millones de eventos. En lugar de analizar las transacciones de forma aislada, este análisis consolida la actividad para perfilar a cada cliente de manera única. Con esto, el negocio puede diseñar estrategias de marketing personalizadas, optimizar la asignación de recursos y mejorar la retención de usuarios según sus hábitos reales de consumo.
 
+![Segmentación K-Means](K-Means.png) 
+
 ## Hallazgos
 Antes de aplicar modelos de inteligencia artificial, se analizaron las tendencias temporales de las compras exitosas, descubriendo dos patrones críticos para la operación: 
 **Concentración Semanal (Días Pico):** Al ordenar cronológicamente las transacciones, se descubrió que los lunes (**Monday**) y martes (**Tuesday**) registran el mayor volumen de actividad del negocio. Esto sugiere que las campañas publicitarias y las notificaciones push tienen un impacto significativamente mayor si se programan al inicio de la jornada laboral, en comparación con los fines de semana. 
